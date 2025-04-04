@@ -1,0 +1,13 @@
+flask
+numpy
+librosa
+pydub
+scipy
+matplotlib
+stripe
+firebase-admin
+gunicorn
+requests
+Flask-WTF
+flask-limiter
+google-auth
